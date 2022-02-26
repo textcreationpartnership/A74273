@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno Regni Caroli Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, Decimo Septimo. At the Parliament begun at Westminster the third day of November, Anno Dom. 1640. in the 16. yeer of the reign of ... Lord Charles ...</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74273</idno>
+            <idno type="STC">Thomason E1059_27-30</idno>
+            <idno type="EEBO-CITATION">50922826</idno>
+            <idno type="OCLC">ocm 50922826</idno>
+            <idno type="VID">169012</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74273)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169012)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1059[27]-[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno Regni Caroli Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, Decimo Septimo. At the Parliament begun at Westminster the third day of November, Anno Dom. 1640. in the 16. yeer of the reign of ... Lord Charles ...</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, Printer to the King's Most Excellent Majestie: and by the assignes of John Bill,</publisher>
+                  <pubPlace>London,</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within ornamental border.</note>
+                  <note>"Cum privilegio".</note>
+                  <note>Head piece; initials; text in black letter.</note>
+                  <note>Items 157:E.1059[2-37] originally cataloged as one item in Thomason's orginal index. Numbers in brackets added during filming.</note>
+                  <note>Items in Thomason 157:E.1059[2-37] now cataloged separately according to continuous signatures.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+                  <note>An act for disinabling all persons in Holy Orders to exercise any temporall jurisdiction or authorite.--An act for the better raising and leavying of souldiers for the present defence of the kingdoms of England and Ireland.--An act for a speedie contribution and loan, towards the relief of His Majesties distressed subjects of the kingdom of Ireland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169012:1"/>
+            <p>
+               <figure>
+                  <figDesc>decorative border</figDesc>
+                  <figure>
+                     <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                     <figDesc>royal blazon flanked by the English lion and Scottish unicorn</figDesc>
+                  </figure>
+                  <p>ANNO REGNI CAROLI REGIS ANGLIAE, SCOTIAE FRANCIAE, &amp; HIBERNIAE, DECIMO SEPTIMO.</p>
+                  <p>At the Parliament begun at <hi>Weſtminiſter</hi> the third day of November, <hi>Anno Dom.</hi> 1640.</p>
+                  <p>In the 16. yeer of the Reign of our moſt gracious Soveraign Lord, CHARLES, by the grace of God, of England, Scotland, France, and Ireland King, Defender of the Faith, &amp;c.</p>
+                  <p>LONDON, Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL.</p>
+                  <p>1641.</p>
+                  <p>Cum Privilegio.</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:169012:2"/>
+            <p>
+               <figure>
+                  <figDesc>decorative border for the royal blazon, including th Tudor rose, French fleur-de-lis, and Scottish thistle, each surmounted by a crown</figDesc>
+                  <figure>
+                     <figDesc>royal blazon flanked by the English lion and Scottish unicorn</figDesc>
+                     <head>C R</head>
+                     <q xml:lang="frm">DIEV ET MON DROIT</q>
+                     <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:169012:2"/>
+            <opener>
+               <dateline>
+                  <date>ANNO. XVII. Caroli Regis.</date>
+               </dateline>
+            </opener>
+            <head>An Act for diſinabling all perſons in Holy Orders to exer<g ref="char:EOLhyphen"/>ciſe any Temporall Juriſdiction or Authoritie:</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Biſhops and other</hi> perſons in holy Orders ought not to be intangled with ſecular Juriſdiction (the Office of the Mini<g ref="char:EOLhyphen"/>ſterie being of ſuch great Importance, that it will take up the whole Man) And for that it is found by long experience, that there intermedling with ſecular Iuriſdictions, hath occaſioned great miſchiefs and ſcandall both to Church, and State; his Majeſtie, out of his Reli<g ref="char:EOLhyphen"/>gious care of the Church and Souls of his people, is graciouſly pleaſed that it be Enacted, And by Authoritie of this preſent Parliament be it Enacted,
+<pb facs="tcp:169012:3"/>
+That no Archbiſhop or Biſhop or other perſon that now is, or hereafter ſhall be in holy Orders, ſhall at any time, after the fifteenth day of February, in the yeer of our Lord, one thouſand ſix hundred fortie one, have any Seat or Place, Suffrage or Voice, or uſe or execute any power or authority in the Par<g ref="char:EOLhyphen"/>liaments of this Realm, nor ſhall be of the Pri<g ref="char:EOLhyphen"/>vie Councell of his Mafeſtie, his heirs or Succeſ<g ref="char:EOLhyphen"/>ſors, or Juſtice of the Peace of Dyer and Termi<g ref="char:EOLhyphen"/>uer, or Goal-dcivery, or execute any Temporall au<g ref="char:EOLhyphen"/>thority by vertue of any Commiſſion, But ſhall be wholly diſabled, and be uncapable to have, receive, uſe, or orecute any of the ſaid Offices, Places, Pow<g ref="char:EOLhyphen"/>ers, Authorities and things aforeſaid.</p>
+            <p>And be it further Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That all Acts from and after the ſaid fifteenth day of February, which ſhall be done or executed by any Archbiſhop or Biſhop or other perſon whatſoe<g ref="char:EOLhyphen"/>ver in holy Orders, and all and every Suffrage or Voyce given or delivered by them or any of them, or other thing done by them or any of them contrary to the Purport and true meaning of this pre<g ref="char:EOLhyphen"/>ſent Act, ſhall be utterly boid to all in<g ref="char:EOLhyphen"/>tents, conſtructions and purpoſes.</p>
+         </div>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:169012:4"/>
+            <opener>
+               <dateline>
+                  <date>ANNO XVII. Caroli Regis.</date>
+               </dateline>
+            </opener>
+            <head>An Act for the better raiſing and leavying of Souldiers for the preſent defence of the Kingdoms of ENGLAND and IRELAND.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſinuch as great Com<g ref="char:EOLhyphen"/>motions and Revellions have been lately raiſed and ſtirred up in his Majeſties Kingdom of <hi>Ireland</hi> by the wicked plots and Conſpi<g ref="char:EOLhyphen"/>racies of divers of his Majeſties Subjects there (being Traiterouſly affe<g ref="char:EOLhyphen"/>cted) to the great endan<g ref="char:EOLhyphen"/>gering, not onely of the ſaid Kingdom, but alſo of this Kingdom of <hi>England,</hi> unleſſe a ſpeedy courſe be taken for the preventing thereof, and for the raiſing and preſſing of Men for thoſe Services; And whereas by the Laws of this Realm, none of his Majeſties Subjects ought to be impreſſed, or compelled to go out of his Coun<g ref="char:EOLhyphen"/>ty to ſerve as a Souldier in the wars, except in caſe of neceſſity, of the ſudden coming in of ſtrange Ene<g ref="char:EOLhyphen"/>mies
+<pb facs="tcp:169012:5"/>
+into the Kingdom, or except they be otherwiſe bound by the Tenure of their Lands or Poſſeſſions: Therefore in reſpect of the great and urgent neceſſity of providing a preſent ſupplie of men for the prevent<g ref="char:EOLhyphen"/>ing of theſe great and imminent dangers, and for the ſpeedy ſuppreſſing of the ſaid hainous and dangerous Rebellions;</p>
+            <p>Be it Enacted by Authority of this preſent Par<g ref="char:EOLhyphen"/>liament, That the Iuſtices of the Peace of every County and Riding within this Realm, or any three, or more of them, as alſo the Major or other head Officer or Officers of every Citie or Town Cor<g ref="char:EOLhyphen"/>porate within this Realm, having Iuſtices of the Peace, together with any two or more Iuſtices of the Peace of the ſame Citie or Town Corporate reſpe<g ref="char:EOLhyphen"/>ctively, or in default of ſuch Iuſtices, then with two or more Iuſtices of the Peace of the Countie wherein the ſaid City or Town is, ſhall and may at any time or times, between the firſt of <hi>December,</hi> one thouſand ſix hundred fourty and one, and the firſt of November which ſhall be in the yeer of our Lord God one thou<g ref="char:EOLhyphen"/>ſand ſix hundred fourty two, within their ſeverall li<g ref="char:EOLhyphen"/>mits and juriſdictions, Raiſe, Levie, and Impreſſe ſo many men for Souldiers, Gunners, and Chirur<g ref="char:EOLhyphen"/>gions, as ſhall be appointed by Order of the Kings Majeſtie, his heirs, or Succeſſors, and both houſes of Parliament, for the ſaid ſervices; and to command all and every the high Conſtables, other Conſtables, and inferiour Officers, of, and within every ſuch County, Riding, City, or Town Corporate or the Li<g ref="char:EOLhyphen"/>berties thereof reſpectively, by warrant under the hands &amp; Seals of ſuch Iuſtices of the Peace, Major or other head Officer, or Officers as are authorized by this Act, as aforeſaid, to bring before them any ſuch perſon or perſons as ſhall be fit and neceſſary for
+<pb facs="tcp:169012:5"/>
+the ſaid ſervices; which ſaid perſons ſo to be Im<g ref="char:EOLhyphen"/>preſted as aforeſaid, and every of them ſhall have ſuch Impreſt money, and ſuch allowance for Coat and Conduct, unto the place of their Rendevous, as likewiſe ſuch wages, and entertainment from the time of their firſt entring into Pay, during their con<g ref="char:EOLhyphen"/>tinuance in the ſaid Services, and ſuch other neceſ<g ref="char:EOLhyphen"/>ſary charges and allowances ſhall be made touching the ſaid Preſſe, the ſaid Money, and other charges and allowances to be paid by ſuch perſons, and in ſuch manner, as by Order of his Majeſtie, his heirs and Succeſſours, and of both houſes of Parlia<g ref="char:EOLhyphen"/>ment, ſhall be appointed: And if any perſon or per<g ref="char:EOLhyphen"/>ſons ſhall wilfully refuſe to be Impreſted for the ſaid Services; That then it ſhall and may be lawfull, to and for the ſaid perſons ſo authorized as aforeſaid, to the ſaid Preſſe, to commit ſuch offender to priſon, there to remain without Bail or Mainpriſe, by the ſpace of ſix moneths, and untill he ſhall pay the ſum of ten pounds to the Treaſurers for the maimed Souldiers of the ſame County, City, or Town cor<g ref="char:EOLhyphen"/>porate where any ſuch Treaſurers are, to be im<g ref="char:EOLhyphen"/>ployed for and towards the relief and maintenance of ſuch Souldiers, Gunners, and Chirurgions as ſhall happen to be maimed in the ſaid Services, or if none ſuch ſhall happen to be, then for the relief of other the maimed Souldiers of the ſaid County, City, or Town corporate reſpectively, and in default of paiment of the ſaid ſum, then the ſaid perſon of<g ref="char:EOLhyphen"/>fending, to remain in priſon by the ſpace of one whole yeer, over and above the ſaid ſix moneths, without Bail, or Mainprize.</p>
+            <p>Provided alwayes, That this Act ſhall not extend to the Preſſing of any Clergie-man, or any Schol<g ref="char:EOLhyphen"/>lers, or Students, or priviledged perſons of either of
+<pb facs="tcp:169012:6"/>
+the Univerſities, Innes of Court, or Chaneery, or any of the Trained Bands of this Realm, or to the Preſſing of any other perſon who was Rated to<g ref="char:EOLhyphen"/>wards the paiment of the laſt Subſidies, or that ſhall be Rated or taxed towards the paiment of any Subſidies hereafter to be granted, before the time of ſuch Impreſting, or to the eldeſt ſon of any perſon, who is, or ſhall be, before the time of ſuch Impreſt<g ref="char:EOLhyphen"/>ing, rated in the Subſidie Book at three pound Lands, or five pound Goods, or to any perſon of the rank or degree of an Eſquire, or upwards, or to the ſon of any ſuch perſon of the ſaid rank or degree, or of the widow of any ſuch perſon, or to any perſon under the age of eighteen, or above the age of three<g ref="char:EOLhyphen"/>ſcore yeers, or to any Marriners, Sea-men, or Fiſher<g ref="char:EOLhyphen"/>men.</p>
+            <p>Provided alſo, And be it Enacted, That no Money or other reward ſhall be taken, or other cor<g ref="char:EOLhyphen"/>rupt practice uſed, in, or for the Preſſing, Changing or releaſing of any perſon Impreſted, or to be Im<g ref="char:EOLhyphen"/>preſted by force of this Act, by any perſon hereby authorized in that behalf, or their Agents, under pain of forfeiture of twenty pounds by every perſon ſo offending, for every ſuch offence to be payed, and imployed to the Treaſurers of the maimed Souldi<g ref="char:EOLhyphen"/>ers in manner and to the uſes aforeſaid.</p>
+            <p>Provided alſo, and be it Enacted, That this preſent Act ſhall not extend to the Impreſting of any of the meaniall Servants of the Members or Aſſiſtants or Officers of the Lords houſe of Parliament, or to the meaniall Servants of the Members or Offi<g ref="char:EOLhyphen"/>cers of the houſe of Commons, or of any of the Inhabitants of the Iſle of <hi>Wight,</hi> or of the Iſle of <hi>Angliſey,</hi> or of any of the Cinque<g ref="char:EOLhyphen"/>ports or Members thereof.</p>
+            <pb facs="tcp:169012:7" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:169012:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:169012:8"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:169012:9"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
